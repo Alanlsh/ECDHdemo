@@ -1,2 +1,2 @@
 # ECDHdemo
-ecies 加密
+ecies 加解密
